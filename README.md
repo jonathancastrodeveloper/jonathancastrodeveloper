@@ -11,9 +11,14 @@ _Find software in the following technologies_
 - Yii
 - Laminas MVC
 
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://www.linkedin.com/in/adriano-forcellini-adrianwarrior/)](https://www.linkedin.com/in/jonathan-castro-338160256/)
+
 ## Contact :mailbox:
 
 _contact@opengiscrm.com_
+
 
 <!--
 **opengiscrm/opengiscrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
